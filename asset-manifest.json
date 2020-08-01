@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.9363609a.chunk.css",
-    "main.js": "/static/js/main.110ff588.chunk.js",
-    "main.js.map": "/static/js/main.110ff588.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.32a6837a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.32a6837a.js.map",
-    "static/js/2.3a868589.chunk.js": "/static/js/2.3a868589.chunk.js",
-    "static/js/2.3a868589.chunk.js.map": "/static/js/2.3a868589.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.16d03d805f078af22ccd9278b9825a75.js": "/precache-manifest.16d03d805f078af22ccd9278b9825a75.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.9363609a.chunk.css.map": "/static/css/main.9363609a.chunk.css.map",
-    "static/js/2.3a868589.chunk.js.LICENSE.txt": "/static/js/2.3a868589.chunk.js.LICENSE.txt",
-    "static/media/chevron-left.74e3622a.svg": "/static/media/chevron-left.74e3622a.svg",
-    "static/media/chevron-right.585902d6.svg": "/static/media/chevron-right.585902d6.svg",
-    "static/media/error.aa39fd54.svg": "/static/media/error.aa39fd54.svg",
-    "static/media/not-found.33b4fa53.svg": "/static/media/not-found.33b4fa53.svg",
-    "static/media/user.00debe80.svg": "/static/media/user.00debe80.svg"
+    "main.css": "/github-user-search/static/css/main.9363609a.chunk.css",
+    "main.js": "/github-user-search/static/js/main.b3b67449.chunk.js",
+    "main.js.map": "/github-user-search/static/js/main.b3b67449.chunk.js.map",
+    "runtime-main.js": "/github-user-search/static/js/runtime-main.ca5a9141.js",
+    "runtime-main.js.map": "/github-user-search/static/js/runtime-main.ca5a9141.js.map",
+    "static/js/2.3a868589.chunk.js": "/github-user-search/static/js/2.3a868589.chunk.js",
+    "static/js/2.3a868589.chunk.js.map": "/github-user-search/static/js/2.3a868589.chunk.js.map",
+    "index.html": "/github-user-search/index.html",
+    "precache-manifest.7f72da4cc6590654f18ea3d623470a4d.js": "/github-user-search/precache-manifest.7f72da4cc6590654f18ea3d623470a4d.js",
+    "service-worker.js": "/github-user-search/service-worker.js",
+    "static/css/main.9363609a.chunk.css.map": "/github-user-search/static/css/main.9363609a.chunk.css.map",
+    "static/js/2.3a868589.chunk.js.LICENSE.txt": "/github-user-search/static/js/2.3a868589.chunk.js.LICENSE.txt",
+    "static/media/chevron-left.74e3622a.svg": "/github-user-search/static/media/chevron-left.74e3622a.svg",
+    "static/media/chevron-right.585902d6.svg": "/github-user-search/static/media/chevron-right.585902d6.svg",
+    "static/media/error.aa39fd54.svg": "/github-user-search/static/media/error.aa39fd54.svg",
+    "static/media/not-found.33b4fa53.svg": "/github-user-search/static/media/not-found.33b4fa53.svg",
+    "static/media/user.00debe80.svg": "/github-user-search/static/media/user.00debe80.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.32a6837a.js",
+    "static/js/runtime-main.ca5a9141.js",
     "static/js/2.3a868589.chunk.js",
     "static/css/main.9363609a.chunk.css",
-    "static/js/main.110ff588.chunk.js"
+    "static/js/main.b3b67449.chunk.js"
   ]
 }
