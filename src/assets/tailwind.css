@@ -1,0 +1,19 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.spinner {
+  @apply ease-linear rounded-full border-4 border-t-4 border-gray-200 h-20 w-20 animate-spin;
+  /* border-left-color: config("theme.colors.blue-900"); */
+  border-top-color: #63b3ed;
+}
+
+.input {
+  @apply bg-gray-100 text-gray-900 border border-gray-300 rounded-lg py-2 px-4 block appearance-none leading-normal;
+}
+
+.input:focus {
+  @apply outline-none border-gray-500;
+}
